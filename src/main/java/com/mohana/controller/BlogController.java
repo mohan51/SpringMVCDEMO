@@ -1,9 +1,9 @@
-package com.gaussic.controller;
+package com.mohana.controller;
 
-import com.gaussic.model.BlogEntity;
-import com.gaussic.model.UserEntity;
-import com.gaussic.repository.BlogRepository;
-import com.gaussic.repository.UserRepository;
+import com.mohana.model.BlogEntity;
+import com.mohana.model.UserEntity;
+import com.mohana.repository.BlogRepository;
+import com.mohana.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
